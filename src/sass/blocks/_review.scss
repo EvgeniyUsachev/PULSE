@@ -1,0 +1,30 @@
+.review {
+    padding-bottom: 71px;
+   
+    h2 {
+        margin-bottom: 70px;
+    }
+    &__block {
+        display: flex;
+        margin-bottom: 102px;
+        &:nth-child(4) {
+            margin-bottom: 0;
+        }
+      
+    }
+    &__descr {
+        margin-left: 62px;
+        &__name {
+            color: #0d0d0d;
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        &__experience {
+            color: #646464;
+            font-size: 14px;
+            font-weight: 300;
+            margin-bottom: 19px;
+        }
+    }
+}

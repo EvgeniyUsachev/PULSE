@@ -6,16 +6,38 @@
 }
 
 .container {
+    position:relative;
     max-width: 950px;
     margin: 0 auto;
+    
 }
 
 @import 'blocks/promo' ;
 @import 'blocks/header' ;
 @import 'blocks/buttons';
 @import 'blocks/advantages';
-@import 'base/media';
+
 @import 'blocks/consultation';
 @import 'blocks/title';
 @import 'blocks/forms';
 @import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/review';
+@import 'blocks/footer';
+@import 'blocks/modal';
+@import 'blocks/animation';
+
+@import 'base/media';
+
+.pageup {
+    display: none;
+  
+    img{
+        filter: invert(14%) sepia(93%) saturate(4462%) hue-rotate(356deg) brightness(79%) contrast(115%);
+        width: 50px;
+        position: fixed; 
+        bottom: 40px;
+        right: 40px;
+        z-index: 500;
+    }
+}
