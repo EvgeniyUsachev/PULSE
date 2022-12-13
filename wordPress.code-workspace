@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "../wordPress"
+		},
+		{
+			"path": "../project"
+		},
+		{
+			"path": "../UBER"
+		},
+		{
+			"path": "../pseudo_elements"
+		},
+		{
+			"path": "../git_tutorial"
+		},
+		{
+			"path": "../gulp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../JS"
+		},
+		{
+			"path": "../lesson 25"
+		},
+		{
+			"path": "../lesson 27"
+		},
+		{
+			"path": "../llesson 28"
+		},
+		{
+			"path": "../lesson 29"
+		},
+		{
+			"path": "../iintoo"
+		},
+		{
+			"path": "../iinto22"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iinto22"
+	}
+}
